@@ -68,12 +68,12 @@ npm run serve
 
 首页
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_travel/master/server/upload/img/a.png)
 
 
 后台页面
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/python_travel/master/server/upload/img/b.png)
 
 
 
