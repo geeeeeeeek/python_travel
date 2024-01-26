@@ -90,5 +90,7 @@ npm run serve
 
 微信（lengqin1024）
 
+### 打赏作者
 
+<img src="https://raw.githubusercontent.com/geeeeeeeek/python_book/master/bookproject/upload/img/weixin-pay.jpg" width=400/>
 
