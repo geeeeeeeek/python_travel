@@ -84,6 +84,9 @@ npm run serve
 - 粉丝关注功能
 - 支付功能
 
+### 参考论文
+
+[点击查看](doc/python_travel.docx)
 
 
 ### 付费咨询
